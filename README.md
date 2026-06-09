@@ -1,9 +1,16 @@
 - 👋 Hi, I’m @mr-engineer49
-- 👀 I’m interested in Software Testing | Automation Testing | Web Development | Video Editing | Other Exiting areas...!
-- 🌱 I’m currently learning Software Testing | Web Development | Django | Reactjs
-- 💞️ I’m looking to collaborate on working with Different Projects Remotely and Freelancing !
-- 📫 Reach Me -> eneahysa49@gmail.com
-- ⚡ Fun fact: ...
+- 👀 I’m a QA & Automation Specialist with 3+ years of hands-on experience in test automation, workflow automation, and full-stack web development. My work focuses on building reliable automated systems that reduce manual effort, strengthen software quality, and accelerate delivery.
+
+I combine an MSc in Computer Engineering & Multimedia Design with a Bachelor in Software Engineering to design practical, scalable solutions across QA, RPA, and web technologies.
+
+Core Skills & Tools:
+• Test Automation: Python, Selenium, Playwright, API Testing
+• Workflow Automation: n8n, Zapier, Make, UI Path
+• Web Development: Django, Next.js, REST APIs
+• Quality Engineering: Test strategy, regression automation, CI-driven testing
+• Process Optimization: Automation architecture, integration workflows, RPA prototypes
+
+I focus on delivering automation that is maintainable, efficient, and aligned with real business needs. Open to collaborating on QA automation projects, workflow optimization, and intelligent system integrations and Scripting & Similar Roles.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eneahysa10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eneahysa49) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eneahs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eneahysa4) 
